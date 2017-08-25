@@ -1,0 +1,27 @@
+.container {
+    width: 900px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.pokedex {
+    width: 300px;
+    height: 700px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-left: 15px;
+    vertical-align: top;
+    position: fixed;
+    
+}
+
+h2 {
+    vertical-align: top;
+
+}
+
+.pokeimg .name .height .weight .type {
+    display: block;
+    width: 280px;
+    height: 300px;
+}
